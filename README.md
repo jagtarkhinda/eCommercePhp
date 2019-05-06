@@ -29,4 +29,4 @@ Develop a website that people can buy/sell products.
  #### How to use it 
  
 - All you need is an xampp server installed and make sure to turn on Apache and MySQL.
-- Then make a database in phpMyAdmin. (current databse name is 'testbs', you can always change it from dbconnection.php)
+- Then make a database in phpMyAdmin if you want to start fresh, otherwise import the included database. (current databse name is 'testbs', you can always change it from dbconnection.php)
