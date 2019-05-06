@@ -1,0 +1,130 @@
+.tabll td{
+    padding: 20px;
+    widows: 100px;
+    height: 100px;
+
+}
+td{
+  align
+    padding: 10px;
+}
+th{
+    padding: 10px !important;
+}
+
+table{
+    padding: 10px;
+}
+
+tr{
+    padding: 10px;
+}
+
+.imag .title .price{
+     display:block;
+      vertical-align:middle;
+}
+
+.heading{
+  font-size: 40px;
+  font-weight: bolder;
+  margin-bottom: 30px;
+  text-align: center;
+
+}
+
+.title
+{
+    width: 100%;
+    font-weight: 400;
+    font-size: 18px;
+    color: black;
+    /* background-color: #038a86; */
+    /* margin-top: 10px; */
+    text-align: center;
+    /* padding-left: 5px; */
+}
+
+.title-d{
+  font-size: 22px;
+  font-weight: bolder;
+  border-bottom: 1px solid black;
+}
+
+.price-d{
+  color: #a23d3d;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.quantity-d{
+  font-weight: bold;
+  text-align: right;
+}
+
+.descp-d{
+  background-color: #c1ecf9;
+  margin-top: 10px;
+  padding: 20px;
+  margin-right: 40px;
+}
+
+
+
+.date-d{
+    margin-right: 40px;
+  font-weight: 200;
+  text-align: right;
+}
+
+.postedby-d{
+  margin-right: 40px;
+  font-weight: 200;
+  margin-top: 10px;
+  text-align: right;
+}
+
+.price{
+    width: 100%;
+    color: #a23d3d;
+    font-weight: bold;
+      text-align: left;
+}
+.details_page_image img{
+   width: 220px;
+   border: 1px solid #ddd;
+   border-radius: 4px;
+   padding: 5px;
+   display: block;
+   float: left;margin-right: 5px;
+   border-top:none;
+   margin: 2px;
+}
+
+  img{
+     /* padding: 5px; */
+     margin: 10px;
+     /* border-left: 1px solid #5a5a5a; */
+     border: 1px solid #5a5a5a;
+    width: 250px;
+    height: 200px;
+    display: inline-block;
+}
+
+ #aaa img{
+     padding: 0px;
+    border-top: none;
+      width: 100px;
+    height: 100px;
+}
+
+.else-parts{
+   background-color:green !important;
+   border:1px solid white !important;
+   border-radius:2px !important;
+   color:white !important;
+   padding:10px !important;
+   margin:10px !important;
+   width:300px; !important ;
+}
