@@ -28,6 +28,9 @@ session_start();
             <li class="nav-item active">
             <a class="nav-link" href="index.php">Sold Items</a>
                 </li>
+                <li class="nav-item active" style="background-color:#B22222;font-weight:bold;">
+            <a class="nav-link" href="https://github.com/jagtarkhinda/eCommercePhp">GitHub Code</a>
+                </li>
 <!--
           <li class="nav-item">
             <a class="nav-link" href="view_items.php">View Items</a>
