@@ -28,11 +28,11 @@ if(isset($_SESSION["id"]) && !empty($_GET["id"]))
             </tr>
             <tr>
                 <td><label>Price </label></td>
-                <td><input type="number" name="price" value="<?php echo $_GET['price'] ?>"></td>
+                <td><input type="number" min="0" name="price" value="<?php echo $_GET['price'] ?>"></td>
             </tr>
             <tr>
                 <td><label>Quantity </label></td>
-                <td> <input type="number" name="quantity" value="<?php echo $_GET['quantity'] ?>"></td>
+                <td> <input type="number" min="0" name="quantity" value="<?php echo $_GET['quantity'] ?>"></td>
             </tr>
             <tr>
                 <td></td>

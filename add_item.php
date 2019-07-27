@@ -18,11 +18,11 @@ if(isset($_SESSION["id"]) && !empty($_SESSION["id"]))
             </tr>
             <tr>
                 <td><label>Price </label></td>
-                <td><input type="number" name="price"></td>
+                <td><input type="number" min="0" maxlength="5" name="price"></td>
             </tr>
             <tr>
                 <td><label>Quantity </label></td>
-                <td> <input type="number" name="quantity"></td>
+                <td> <input type="number" min="0" name="quantity"></td>
             </tr>
             <tr>
                 <td> <label>Select Image (max 4) </label></td>
