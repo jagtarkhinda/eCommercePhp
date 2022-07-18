@@ -1,6 +1,6 @@
 # eCommecre Website
 ### A basic eCommerce website made using PHP, MySQL and Bootstrap.
-#### You can see it working [here](http://www.jagtar.xyz)
+
 #### Below is the detailed summary of the things I performed using the code.
 
 Develop a website that people can buy/sell products.
